@@ -1,0 +1,19 @@
+{
+  "name": "bmi_calc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anantha45/code-30-03-2023-Narisetty-Anantha-Lakshmi.git"
+  },
+  "author": "Narisetty Anantha Lakshmi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anantha45/code-30-03-2023-Narisetty-Anantha-Lakshmi/issues"
+  },
+  "homepage": "https://github.com/anantha45/code-30-03-2023-Narisetty-Anantha-Lakshmi#readme"
+}
